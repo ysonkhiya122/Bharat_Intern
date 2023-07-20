@@ -1,0 +1,5 @@
+#Stock Price Prediction using LSTM
+
+This repository contains the implementation of a powerful Long Short-Term Memory (LSTM) model for stock price prediction.
+As part of my data science internship at Bharat Intern, I embarked on this fascinating journey to forecast the stock prices of a company of my choice.
+Leveraging the capabilities of Jupyter Notebook, I explored historical stock data, engineered the LSTM model, and meticulously trained it to make accurate predictions.
